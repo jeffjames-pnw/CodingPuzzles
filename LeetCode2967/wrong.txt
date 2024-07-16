@@ -1,0 +1,26 @@
+Wrong Answer
+469 / 648 testcases passed
+
+nums =
+[118,279,113,109,227,208,311,992,884,534,824,533]
+
+Stdout
+target=99 deviation=3944
+target=101 deviation=3920
+target=999 deviation=6856
+target=424 deviation=3250
+target=1001 deviation=6880
+target=202 deviation=3240
+target=111 deviation=3804
+target=272 deviation=3038
+target=535 deviation=3478
+target=888 deviation=5732
+target=313 deviation=3028
+target=828 deviation=5244
+target=222 deviation=3148
+
+Output
+3028
+
+Expected
+3024
